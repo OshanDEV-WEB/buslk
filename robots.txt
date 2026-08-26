@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://oshandev-web.github.io/buslk/sitemap.xml
